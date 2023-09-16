@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+}
+
+.AppWrapper {
+    max-width: 1200px;
+    margin: auto;
+}
